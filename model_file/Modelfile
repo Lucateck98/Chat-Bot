@@ -1,0 +1,4 @@
+FROM llama3
+PARAMETER temperature 1
+PARAMETER num_ctx 16384
+PARAMETER temperature 0.9
